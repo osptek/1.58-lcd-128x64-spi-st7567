@@ -53,6 +53,8 @@ Current module version: **LCD12864-1937**. Electrical and mechanical details fol
 | ---- | ---- |
 | ESP32-S3 · ST7567 SPI display | [`examples/esp32s3-idf5_st7567-spi/`](./examples/esp32s3-idf5_st7567-spi/) |
 
+Demo: [`assets/demo_1.mp4`](./assets/demo_1.mp4).
+
 ## Repository layout
 
 ```text
@@ -62,6 +64,7 @@ Current module version: **LCD12864-1937**. Electrical and mechanical details fol
 ├── MODULE_VERSION.md
 ├── LICENSE
 ├── images/          # README assets
+├── assets/          # demo videos
 ├── docs/            # datasheets, init
 └── examples/        # sample projects
 ```

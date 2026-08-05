@@ -53,6 +53,8 @@ OSPTEK **1.58 寸 128×64 LCD** 是一款 **SPI** 单色点阵显示模组，显
 | ---- | ---- |
 | ESP32-S3 · ST7567 SPI 显示 | [`examples/esp32s3-idf5_st7567-spi/`](./examples/esp32s3-idf5_st7567-spi/) |
 
+示例效果见 [`assets/demo_1.mp4`](./assets/demo_1.mp4)。
+
 ## 仓库结构
 
 ```text
@@ -62,6 +64,7 @@ OSPTEK **1.58 寸 128×64 LCD** 是一款 **SPI** 单色点阵显示模组，显
 ├── MODULE_VERSION.md
 ├── LICENSE
 ├── images/          # README 用图
+├── assets/          # Demo 效果视频等
 ├── docs/            # 规格书、驱动手册、初始化等
 └── examples/        # 示例工程
 ```
