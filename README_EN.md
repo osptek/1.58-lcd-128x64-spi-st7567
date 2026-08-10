@@ -46,8 +46,6 @@ Repo id: `1.58-lcd-128x64-spi-st7567`
 
 <p align="center"><img alt="LCD12864-1937" src="./images/LCD12864-1937.png" width="320" /></p>
 
-**Notes:** Module.
-
 ---
 
 ## How to Switch Branches

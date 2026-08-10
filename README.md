@@ -46,8 +46,6 @@
 
 <p align="center"><img alt="LCD12864-1937" src="./images/LCD12864-1937.png" width="320" /></p>
 
-**说明：** 模组。
-
 ---
 
 ## 如何切换分支
