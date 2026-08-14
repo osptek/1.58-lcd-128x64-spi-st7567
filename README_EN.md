@@ -18,7 +18,6 @@
 - [About](#about)
 - [Versions](#versions)
 - [LCD12864-1937](#lcd12864-1937)
-- [How to Switch Branches](#how-to-switch-branches)
 - [Where to Buy](#where-to-buy)
 - [Support](#support)
 
@@ -28,7 +27,7 @@
 
 This repository holds materials for the **1.58″ 128×64 LCD (SPI · ST7567)** module family.
 
-**`main` is the navigation page** (repository default). Use the table below for a quick scan; click **Details** to jump to the section on this page. For a given version’s full content, switch to that **version branch** (see below).
+The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
 Repo id: `1.58-lcd-128x64-spi-st7567`
 
@@ -36,24 +35,17 @@ Repo id: `1.58-lcd-128x64-spi-st7567`
 
 ## Versions
 
-| Version | Image | Notes |
-| ------- | ----- | ----- |
-| LCD12864-1937 | <img alt="LCD12864-1937" src="./images/LCD12864-1937.png" width="120" /> | [Details](#lcd12864-1937) |
+| Version | Image | Summary | Full docs |
+| ------- | ----- | ------- | --------- |
+| LCD12864-1937 | <img alt="LCD12864-1937" src="./versions/LCD12864-1937/images/product.png" width="120" /> | [Summary](#lcd12864-1937) | [Full docs](./versions/LCD12864-1937/) |
 
 ---
 
 ## LCD12864-1937
 
-<p align="center"><img alt="LCD12864-1937" src="./images/LCD12864-1937.png" width="320" /></p>
+<p align="center"><img alt="LCD12864-1937" src="./versions/LCD12864-1937/images/product.png" width="320" /></p>
 
----
-
-## How to Switch Branches
-
-Full product materials are on each **version branch**; `main` is navigation only.
-
-- **Web:** open the branch dropdown at the top left of the repository page and select the branch that matches your part number.
-- **CLI:** after cloning, run `git checkout <version-branch>`; if the repo is already local, `git fetch` first, then switch.
+Full product page, datasheets, and examples: [versions/LCD12864-1937/](./versions/LCD12864-1937/)
 
 ---
 
